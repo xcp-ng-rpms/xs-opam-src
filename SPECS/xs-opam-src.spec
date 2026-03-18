@@ -8,7 +8,7 @@
 
 Name: xs-opam-src
 Version: 5.1.0
-Release: %{?xsrel}%{?dist}
+Release: %{?xsrel}~ydi4.1%{?dist}
 Summary: Opam repository
 License: LGPL-2.0-or-later
 
